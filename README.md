@@ -57,4 +57,4 @@ user.logIn(1); // Создаем еще один процесс авториза
 
 ## Стоит прочитать
 
-- [API Документация](https://github.com/lentryd/vi-sgo/blob/main/docs/api.md)
+- [API Документация](./docs/Api.md)
